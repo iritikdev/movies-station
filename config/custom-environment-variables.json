@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "vidly_jwtPrivateKey",
+  "auth-token": "wseyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2I5ODgxMjcwODFlZDMyMDNhZmFhZmMiLCJpYXQiOjE2NzMxMDMzNzh9._1hRl1iOjU_Qi5gQQLYsi8G1AwvLsbTA5afuFbhpy0s"
+}

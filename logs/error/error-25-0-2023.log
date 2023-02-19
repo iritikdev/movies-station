@@ -1,0 +1,195 @@
+TimeStamp: 2023/01/25 00:38:50 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:39:29 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:40:02 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:41:08 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:44:59 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:46:35 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:48:51 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 00:49:51 
+Message: Error `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()` 
+[error] : MongooseError: `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findOne (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2344:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 01:00:51 
+Message: Error `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()` 
+[error] : MongooseError: `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findOne (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2344:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 01:06:31 
+Message: Error `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()` 
+[error] : MongooseError: `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findOne (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2344:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 01:08:11 
+Message: Error `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()` 
+[error] : MongooseError: `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findOne (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2344:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 01:08:24 
+Message: Error `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()` 
+[error] : MongooseError: `Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findOne (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2344:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
+TimeStamp: 2023/01/25 01:10:40 
+Message: Error `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()` 
+[error] : MongooseError: `Model.findById()` cannot run without a model as `this`. Make sure you are not calling `new Model.findById()`
+    at _checkContext (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:1294:11)
+    at new findById (C:\Projects\backend\vidly\node_modules\mongoose\lib\model.js:2302:3)
+    at C:\Projects\backend\vidly\routes\movies.js:49:17
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\backend\vidly\node_modules\express\lib\router\route.js:114:3)
+    at newFn (C:\Projects\backend\vidly\node_modules\express-async-errors\index.js:16:20)
+    at Layer.handle [as handle_request] (C:\Projects\backend\vidly\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\backend\vidly\node_modules\express\lib\router\index.js:284:15
+
+
