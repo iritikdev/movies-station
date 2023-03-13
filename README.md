@@ -39,3 +39,67 @@ npm start
 ```
 
 The server should start running at http://localhost:8000. You can test the API by making requests to the endpoints using tools like Postman or curl.
+
+Here is an example documentation for testing the Movies-Station API endpoints without response:
+
+# /api/genres
+
+`GET /api/genres`
+
+Returns a list of all movie genres.
+
+Request:
+
+bash
+
+```
+GET /api/genres
+```
+
+`POST /api/genres`
+
+Creates a new movie genre.
+
+Request:
+
+bash
+
+```
+POST /api/genres
+Content-Type: application/json
+
+{
+  "name": "Comedy"
+}
+```
+
+# /api/customers
+
+`GET /api/customers`
+
+Returns a list of all customers.
+
+Request:
+
+bash
+
+```
+GET /api/customers
+```
+
+`POST /api/customers`
+
+Creates a new customer.
+
+Request:
+
+```
+POST /api/customers
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "phone": "1234567890",
+  "isGold": true
+}
+```
